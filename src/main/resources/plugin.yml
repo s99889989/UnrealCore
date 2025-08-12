@@ -1,0 +1,3 @@
+name: UnrealCore
+version: '${version}'
+main: com.daxton.unrealcore.UnrealCore
