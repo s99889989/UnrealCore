@@ -1,3 +1,8 @@
 name: UnrealCore
 version: '${version}'
 main: com.daxton.unrealcore.UnrealCore
+folia-supported: true
+commands:
+  unrealcore:
+    description: Basic instructions.
+    aliases: uc

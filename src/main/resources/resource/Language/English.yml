@@ -1,0 +1,15 @@
+Connect:
+  Player:
+    PlayerSuccessfully: '[UnrealCore] Connection successful!'
+  Common:
+    PlayerSuccessfully: 'Player {player} successfully connected!'
+    PlayerDisconnected: 'Player {player} is disconnected!'
+  Server:
+    Connect: 'Using port {port}, waiting for client to connect.'
+    ConnectError: 'Port {port} may be already in use or some other error.'
+  Bungee:
+    Connect: 'Try using port {port} to connect to the Bungee server.'
+    TryToConnect: 'Bungee failed to connect, trying to reconnect...'
+    Successfully: 'Successfully connected to Bungee server.'
+    ReConnect: 'Reconnect to the Bungee server.'
+    RePlayer: 'Player {player} attempted to reconnect.'

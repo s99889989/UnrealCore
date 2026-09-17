@@ -1,0 +1,15 @@
+Connect:
+  Player:
+    PlayerSuccessfully: '[UnrealCore] 連線成功!'
+  Common:
+    PlayerSuccessfully: '玩家 {player} 連線成功!'
+    PlayerDisconnected: '玩家 {player} 斷開連線!'
+  Server:
+    Connect: '正在使用連接埠 {port} 等待客戶端連線。'
+    ConnectError: '連接埠 {port} 可能已被使用或其他錯誤。'
+  Bungee:
+    Connect: '嘗試使用埠 {port} 連線到Bungee伺服器。'
+    TryToConnect: 'Bungee 連線失敗，正在嘗試重新連線...'
+    Successfully: '成功連線到Bungee伺服器。'
+    ReConnect: '重新連接到Bungee伺服器。'
+    RePlayer: '玩家 {player} 嘗試重新連線。'
